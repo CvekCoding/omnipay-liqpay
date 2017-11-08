@@ -11,20 +11,16 @@
         "liqpay",
         "purchase"
     ],
-    "homepage": "https://github.com/thephpleague/omnipay-paypal",
+    "homepage": "https://github.com/VasokProger/omnipay-liqpay",
     "license": "MIT",
     "authors": [
         {
-            "name": "Adrian Macneil",
-            "email": "adrian@adrianmacneil.com"
-        },
-        {
-            "name": "Omnipay Contributors",
-            "homepage": "https://github.com/thephpleague/omnipay-paypal/contributors"
+            "name": "Vasok Proger",
+            "email": "vasok.proger@gmail.com"
         }
     ],
     "autoload": {
-        "psr-4": { "Omnipay\\PayPal\\" : "src/" }
+        "psr-4": { "Omnipay\\LiqPay\\" : "src/" }
     },
     "require": {
         "omnipay/common": "~2.0"
@@ -37,5 +33,11 @@
             "dev-master": "2.3.x-dev"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories":[
+        {
+            "type":"git",
+            "url":"https://github.com/VasokProger/omnipay-liqpay"
+        }
+    ]
 }
