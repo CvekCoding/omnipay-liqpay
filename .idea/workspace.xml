@@ -75,11 +75,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="omnipay-liqpay" type="cbb8eebc:String" user="omnipay-liqpay" />
             </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="omnipay-liqpay" type="cbb8eebc:String" user="omnipay-liqpay" />
-              <item name=".idea" type="cbb8eebc:String" user=".idea" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -120,12 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510126985235</updated>
-      <workItem from="1510126986608" duration="1147000" />
+      <workItem from="1510126986608" duration="1423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1147000" />
+    <option name="totallyTimeSpent" value="1423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1053" extended-state="0" />
